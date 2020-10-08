@@ -1,0 +1,40 @@
+Starts here - Cheltenham Spa
+Company: GW
+Platform: 2
+Scheduled Time: 1532
+Real Time: 1531
+HeadCode: 5L82
+Link: https://www.realtimetrains.co.uk/train/Y96847/2020-10-08/detailed
+
+Cheltenham Spa - Terminates here
+Company: GW
+Platform: 1
+Scheduled Time: 1556
+Real Time: 1556
+HeadCode: 5L82
+Link: https://www.realtimetrains.co.uk/train/Y96847/2020-10-08/detailed
+
+Round Oak - Margam T.C.
+Company: ZZ
+Platform: 1
+Scheduled Time: 1604
+Real Time: 1602
+HeadCode: 636B
+Link: https://www.realtimetrains.co.uk/train/H06822/2020-10-08/detailed
+
+Margam T.C. - Round Oak
+Company: ZZ
+Platform: 2
+Scheduled Time: 1607
+Real Time: Cancelled by Train Operator
+HeadCode: 631C
+Link: https://www.realtimetrains.co.uk/train/H06565/2020-10-08/detailed
+
+Starts here - Cheltenham Spa
+Company: GW
+Platform: 2
+Scheduled Time: 1634
+Real Time: 1634
+HeadCode: 5L84
+Link: https://www.realtimetrains.co.uk/train/Y96849/2020-10-08/detailed
+

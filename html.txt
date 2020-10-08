@@ -1,0 +1,85 @@
+phicons glyphicons-train"></i></span></div>
+</div>
+<a class="service" href="/train/L83266/2020-10-08/detailed"><div class="stp">WTT</div><div class="time plan a gbtt">1545</div><div class="time real a h act c rt">1545</div><div class="location o"><span>Westbury</span></div><div class="platform c act">2</div><div class="tid">2V66</div><div class="toc">GW</div><div class="location d"><span>Great Malvern</span></div><div class="time plan d gbtt">1547</div><div class="time real d act c rt">1546¾</div><div class="cars"></div><div class="lb lb1"></div><div class="lb lb2"></div></a>
+<a class="service" href="/train/C86878/2020-10-08/detailed"><div class="stp diff">VAR</div><div class="time plan a gbtt">1550</div><div class="time real a h act c rt">1548½</div><div class="location o"><span>Newcastle</span></div><div class="platform c act">1</div><div class="tid">1V58</div><div class="toc">XC</div><div class="location d"><span>Penzance</span></div><div class="time plan d gbtt">1552</div><div class="time real d act c rt">1552</div><div class="cars"></div><div class="lb lb1"></div><div class="lb lb2"></div></a>
+<a class="service nonpax" href="/train/Y96847/2020-10-08/detailed"><div class="stp">WTT</div><div class="time plan a wtt">1556</div><div class="time real a exp c">1556</div><div class="location o"><span>Cheltenham Spa</span></div><div class="platform c exp">1</div><div class="tid">5L82</div><div class="toc">GW</div><div class="location d ts">Terminates here</div><div class="time plan d wtt ts"></div><div class="time real d h exp"></div><div class="cars"></div><div class="lb lb1"></div><div class="lb lb2"></div></a>
+<a class="service origin" href="/train/L81818/2020-10-08/detailed"><div class="stp diff">VAR</div><div class="time plan a ts"></div><div class="time real a"></div><div class="location o ts">Starts here</div><div class="platform c exp">1</div><div class="tid">1L82</div><div class="toc">GW</div><div class="location d"><span>London Paddington</span></div><div class="time plan d gbtt">1558</div><div class="time real d exp c">1558</div><div class="cars"></div><div class="lb lb1"></div><div class="lb lb2"></div></a>
+<a class="service" href="/train/C86572/2020-10-08/detailed"><div class="stp diff">VAR</div><div class="time plan a gbtt">1558</div><div class="time real a exp c">1557</div><div class="location o"><span>Cardiff Central</span></div><div class="platform c exp">2</div><div class="tid">1M98</div><div class="toc">XC</div><div class="location d"><span>Nottingham</span></div><div class="time plan d gbtt">1559</div><div class="time real d h exp c">1559</div><div class="cars"></div><div class="lb lb1"></div><div class="lb lb2"></div></a>
+<a class="service nonpax pass" href="/train/H06822/2020-10-08/detailed"><div class="stp">WTT</div><div class="time plan a pass">pass</div><div class="time real a"></div><div class="location o"><span>Round Oak</span></div><div class="platform c exp">1</div><div class="tid">636B</div><div class="toc">ZZ</div><div class="location d"><span>Margam T.C.</span></div><div class="time plan d pass wtt">1604</div><div class="time real d p exp c">1604</div><div class="cars"></div><div class="lb lb1"></div><div class="lb lb2"></div></a>
+<a class="service nonpax pass" href="/train/H06565/2020-10-08/detailed"><div class="stp">WTT</div><div class="time plan a pass">pass</div><div class="time real a"></div><div class="location o"><span>Margam T.C.</span></div><div class="platform c exp">2</div><div class="tid">631C</div><div class="toc">ZZ</div><div class="location d"><span>Round Oak</span></div><div class="time plan d pass wtt">1607½</div><div class="time real d canx"><span tooltip="a request by the train operator">Cancel</span></div><div class="cars"></div><div class="lb lb1"></div><div class="lb lb2"></div></a>
+<a class="service" href="/train/C86768/2020-10-08/detailed"><div class="stp diff">VAR</div><div class="time plan a gbtt">1614</div><div class="time real a exp c">1615</div><div class="location o"><span>Bristol Temple Meads</span></div><div class="platform c exp">2</div><div class="tid">1S53</div><div class="toc">XC</div><div class="location d"><span>Edinburgh</span></div><div class="time plan d gbtt">1615</div><div class="time real d h exp c">1617</div><div class="cars"></div><div class="lb lb1"></div><div class="lb lb2"></div></a>
+<a class="service" href="/train/L81813/2020-10-08/detailed"><div class="stp">WTT</div><div class="time plan a gbtt">1630</div><div class="time real a exp c">1629</div><div class="location o"><span>London Paddington</span></div><div class="platform c exp">2</div><div class="tid">1G19</div><div class="toc">GW</div><div class="location d ts">Terminates here</div><div class="time plan d wtt ts"></div><div class="time real d h exp"></div><div class="cars"></div><div class="lb lb1"></div><div class="lb lb2"></div></a>
+<a class="service nonpax origin" href="/train/Y96849/2020-10-08/detailed"><div class="stp">WTT</div><div class="time plan a ts"></div><div class="time real a"></div><div class="location o ts">Starts here</div><div class="platform c exp">2</div><div class="tid">5L84</div><div class="toc">GW</div><div class="location d"><span>Cheltenham Spa</span></div><div class="time plan d wtt">1634</div><div class="time real d exp c">1634</div><div class="cars"></div><div class="lb lb1"></div><div class="lb lb2"></div></a>
+<a class="service" href="/train/C86885/2020-10-08/detailed"><div class="stp diff">VAR</div><div class="time plan a gbtt">1650</div><div class="time real a exp c">1649</div><div class="location o"><span>Edinburgh</span></div><div class="platform c exp">1</div><div class="tid">1V60</div><div class="toc">XC</div><div class="location d"><span>Plymouth</span></div><div class="time plan d gbtt">1652</div><div class="time real d h exp c">1652</div><div class="cars"></div><div class="lb lb1"></div><div class="lb lb2"></div></a>
+</div>
+<div class="spacer"></div>
+<div class="clearfix hour_buttons">
+<a class="hollow button small float-left" href="/search/detailed/CNM/2020-10-08/1453">-1 hour</a>
+<a class="hollow button small float-right" href="/search/detailed/CNM/2020-10-08/1653">+1 hour</a>
+</div>
+</div>
+<style type="text/css">.cars { display: none !important; }</style>
+</div>
+</div>
+</main>
+<div class="adcontainer-c">
+<ins class="adsbygoogle adunit-r1" data-ad-client="ca-pub-3865989515969468" data-ad-slot="2480784376"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<footer>
+<hr/>
+<div class="grid-container">
+<div class="grid-x grid-y-margin">
+<div class="small-6 medium-3 large-auto cell">
+<h5><a href="/search/">View The Trains</a></h5>
+<ul class="no-bullet">
+<li><a href="/search/simple/">Simple</a>
+<li><a href="/search/detailed/">Detailed</a>
+</li></li></ul>
+</div>
+<div class="small-6 medium-3 large-auto cell">
+<h5><a href="/about/developer/">Data Feeds</a></h5>
+<ul class="no-bullet">
+<li><a href="https://api.rtt.io">API Portal</a>
+<li><a href="/about/developer/pull/docs/">API Documentation</a>
+</li></li></ul>
+</div>
+<div class="small-6 medium-3 large-auto cell">
+<h5>Help</h5>
+<ul class="no-bullet">
+<li><a href="/about/trackyourtrain/">Track Your Train</a></li>
+<li><a href="/about/knowyourtrain/">Know Your Train</a></li>
+</ul>
+</div>
+<div class="small-6 medium-3 large-auto cell">
+<h5><a href="/about/">About us</a></h5>
+<ul class="no-bullet">
+<li><a href="/about/faq/">FAQs</a>
+<li><a href="/about/contact/">Contact us</a></li>
+</li></ul>
+</div>
+</div>
+</div>
+<hr/>
+<div class="row align-middle">
+<div class="medium-10 column">
+<ul class="footer-inline">
+<li><a href="/legal/">Terms &amp; Conditions</a></li>
+<li><a href="/legal/privacy/">Privacy Policy</a></li>
+<li><a href="/legal/cookies/">Cookie Policy</a></li>
+<li><a href="/about/status/">Site Status</a></li>
+</ul>
+<div class="copyright">Realtime Trains, © 2011-2020 swlines Ltd, its partners and <a href="/about/sources/">data sources</a>. All rights reserved.</div>
+</div>
+<div class="medium-2 show-for-medium column icons text-right">
+<a href="https://www.twitter.com/realtimetrains"><icon class="glyphicons twitter"></icon></a>
+<a href="https://www.facebook.com/realtimetrains"><icon class="glyphicons facebook"></icon></a>
+</div>
+</div>
+</footer>
+<script src="/assets/js/app-078b1686.js"></script>
+<script defer="" src="/assets/jsi/klaro_config-9b8d8ee2.js" type="text/javascript"></script>
+<script defer="" src="/assets/jsi/klaro-ac8b4e38.js" type="text/javascript"></script>
+<script defer="" src="/assets/jsi/adcookie-c3a9a880.js" type="text/javascript"></script>
+</body>
+</html>
